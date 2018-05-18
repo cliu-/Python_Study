@@ -8,7 +8,7 @@ Wikipedia: <https://en.wikipedia.org/wiki/Modulo_operation>
 ```python
 $: -1//2
 $: -1
-$: int(-1//2)
+$: int(-1/2)
 $: 0
 ```
 
